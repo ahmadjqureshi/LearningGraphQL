@@ -1,1 +1,1 @@
-This project demonstrates QraphQL in a very simple way.
+This project demonstrates GraphQL in a very simple way.
